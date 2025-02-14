@@ -86,5 +86,43 @@ body{
         margin-bottom: -15%;
         width: 50%;
     }
-       
+   .head-text1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 10%;
+        width: 100%;
+        margin-top: -8%;
+        
+    }
+    .text-style1{
+        
+        
+    }
+    .head-text2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 10%;
+        width: 100%;
+        padding-top: 0px;
+    }
+    .head-des1{
+        width: 100%;
+        height: 10%;
+        margin-top: 2%;
+    }
+    .para0{
+        padding-top: 13px;
+    }
+    .head-des2{
+        width: 100%;
+        height: 10%;
+        padding-top: 8px;
+    }
+    .head-des3{
+        width: 100%;
+        height: 10%;
+        padding-bottom: 12px;
+    }
 }
