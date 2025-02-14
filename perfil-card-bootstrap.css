@@ -33,7 +33,8 @@ body{
     justify-content: center;
     align-items: flex-end;
     background-image: linear-gradient(45deg,#e32f2f,#eeaeae);
-    border-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
 }
 .img-contain{
     display: flex;
